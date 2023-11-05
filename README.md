@@ -7,8 +7,10 @@ So he help me with some coding in years and teach me all bases of informatic
 ## WHAT IM GONA POST 📩
 
 I mainly publish open source websites
-then some HWID spoofers and finally some FN tricks
+then some HWID spoofers and finally some FN Cheats
 
+
+# HERE MY NEW GAME 🕹️
 ```bash
 def main():
     answer = input("Did you use drugs? (yes/no): ")
