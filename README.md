@@ -1,6 +1,6 @@
 # ME 👤 / MY STORY 📚
 
-Hi, Im Dxrk.999 or Dxrk Im in The first year of high school im trying to learn: Javascript, HTML, CSS, C++, C#.
+Hi, Im Dxrk.999 or Dxrk Im in The high school im trying to learn: Javascript, HTML, CSS, C++, C#.
 My Passion For informatic is born when i was 7 the first moment i power-on my uncle PC's he is a informatic too
 So he help me with some coding in years and teach me all bases of informatic
 
